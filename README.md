@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">✨ I have been coding for 2 years<br>📚 I'm currently learning web developpement & infosec</p>
+<p align="left">✨ I have been coding for 3 years<br>📚 I'm currently learning web developpement & infosec</p>
 
 ###
 
