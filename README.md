@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is sobek and I'm a student in CyberSecurity at ESNA</p>
+<p align="left">My name is sobek and I'm a CyberSecurity student at ESNA</p>
 
 ###
 
